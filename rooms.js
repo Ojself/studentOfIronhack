@@ -22,7 +22,7 @@ let roomPhoneBooth = {
     desribeCloser: "it says: 'For when Javascript gives me the fear, I come here to shed a tear'",
     interact: function(){
         player.anxiety = 0;
-        "Your eyes become watery as you question your ability to code. The overwhelming feeling of information that has been bombarded towards you the last few days finaly gets to you and you burst into tears. After a couple of minutes you pick yourself up and whipe the tears away from your cheek. You feel the stress relieve from your body...for now "
+        "Your eyes become watery as you question your ability to code. The overwhelming feeling of information that have been bombarded towards you the last few days finaly gets to you and you burst into tears. After a couple of minutes you pick yourself up and whipe the tears away from your cheek. You feel the stress relieve from your body...for now "
     }
 }
 
