@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0
+}
+
+/* Just for developer to see the divs */
+div{
+    border: solid 1px red
+}
+
+#gameboard{
+    margin-left: 5vw;
+    height: 90vh;
+    width: 90vw;
+    display:flex;
+    justify-content: space-around
+}
+
+#left{
+    margin-top: 2vh;
+    display:flex;
+    flex-direction: column;
+    height: 80vh;
+    width: 45vw;
+}
+
+#right{
+    margin-top: 2vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 80vh;
+    width: 30vw;
+    text-align: center;
+    
+}
+
+#inventoryTitle{
+    bottom:0px;
+    margin-bottom:-7vh
+}
+
+#statContainer{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    height: 40vh;
+    width: 30vw;
+}
+
+.stat{
+    display: flex;
+    height: 5vh;
+    width: 90%
+}
+
+#inventory{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 20vh;
+    width: 30vw
+}
+
+.slot{
+    margin-top: 2vh;
+    height: 30%;
+    width: 20%;
+}
