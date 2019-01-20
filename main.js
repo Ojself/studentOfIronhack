@@ -13,4 +13,15 @@ const introString6 = "With all that waiting, you are yet again late for class. S
 
 const introArray = [introString0,introString1,introString2,introString3,introString4,introString5,introString6,]
 
+// suggestions for commands
+/* 
+- Talk to..
+- Walk to..
+- Look
+- Interact/Do/Use
+- Eat/Drink
+- Pick up/get/take
+- read
+-
+ */
 

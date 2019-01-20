@@ -7,7 +7,7 @@
     - Stamina
     - Currentroom
     - Name
-    - Inventory
+    - Inventory array
 - architect rooms as object?
 - storyline
 - find best way to interact with js through form/action
